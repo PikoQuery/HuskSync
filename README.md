@@ -12,7 +12,7 @@
     </a> 
     <br/>
     <b>
-        <a href="https://www.spigotmc.org/resources/husksync.97144/">Spigot</a>
+        <a href="https://www.spigotmc.org/resources/husksync.97144/">Spigot</a> .
     </b> —
     <b>
         <a href="https://william278.net/docs/husksync/setup">Setup</a>
